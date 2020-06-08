@@ -1,0 +1,38 @@
+    .header {
+    background-color: #b5e65c;
+    height: 1.5rem;
+    text-align: center;
+    color: #4f889f;
+    margin: 10px;
+}
+
+.container div {
+    padding: 1%;
+    text-align: center;
+    box-sizing: border-box;
+    height: 5rem;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.left,
+.right {
+    background-color: #f7ca28;
+    width: 25%;
+    float: left;
+}
+
+.center {
+    background-color: #17c4e3;
+    width: 50%;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.footer {
+    clear: both;
+    background-color: #b5e65c;
+    text-align: center;
+    height: 1.5rem;
+    box-sizing: border-box;
+    margin: 10px;
